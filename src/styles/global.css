@@ -1,17 +1,15 @@
-
-  <style type="text/css" media="all">
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
       font-family: "Poppins", "Tiro Bangla", sans-serif;
     }
-    /* styles.css */
     body {
       font-family: Arial, sans-serif;
       display: grid;
       grid-template-rows: auto 1fr auto;
       min-height: 100vh;
+      margin: 0;
     }
     a {
       color: inherit;
@@ -85,4 +83,3 @@
       border: none;
       border-radius: 10px;
     }
-  </style>
